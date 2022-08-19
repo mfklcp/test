@@ -12,7 +12,7 @@ import com.picpay.desafio.android.utils.extensions.gone
 import com.picpay.desafio.android.utils.extensions.visible
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
-class MainActivity : AppCompatActivity() {
+Eu alysson editei a linha 15
 
     private lateinit var mainBinding: ActivityContactsBinding
     private lateinit var itemUserBinding: ListItemUserBinding
