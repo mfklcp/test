@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.picpay.desafio.android.databinding.ActivityContactsBinding
 import com.picpay.desafio.android.databinding.ListItemUserBinding
 import com.picpay.desafio.android.presentation.adapter.UserListAdapter
-import com.picpay.desafio.android.presentation.viewmodel.ContactsViewModel
+LINHA 10 ALTERADA POR MARCIO
 import com.picpay.desafio.android.utils.extensions.gone
 import com.picpay.desafio.android.utils.extensions.visible
 import org.koin.androidx.viewmodel.ext.android.viewModel
